@@ -1,66 +1,79 @@
 <h1 align="center">Hi 👋, I'm Mahibul Hasan</h1>
 
 <h3 align="center">
-Aspiring Full-Stack Web Developer • Linux Enthusiast • Lifelong Learner
+CST Diploma Student • Learning Full-Stack Web Development • Linux Enthusiast
 </h3>
 
 <p align="center">
-Building practical projects, improving problem-solving skills, and learning modern web technologies every day.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Learning+Full-Stack+Web+Development;C%2B%2B+%7C+Python+%7C+Java;Linux+Enthusiast;Building+Projects+Every+Day" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Web+Developer;C%2B%2B+%7C+Python+%7C+Java;Linux+Enthusiast;Always+Learning+Something+New" />
+<a href="https://github.com/mahibulhasandev">
+<img src="https://komarev.com/ghpvc/?username=mahibulhasandev&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Computer Science & Technology (CST) Diploma Student
-- 🌱 Currently learning **Full-Stack Web Development**
-- 💻 Experienced with **C, C++, Python, Java**
-- 🌐 Building projects using **HTML, CSS, JavaScript & Tailwind CSS**
+- 🌱 Learning Full-Stack Web Development
+- 💻 Comfortable with C, C++, Python and Java
+- 🌐 Building web projects with HTML, CSS, JavaScript and Tailwind CSS
 - 🐧 Linux Enthusiast (Arch Linux + Hyprland)
-- 🚀 Interested in Software Engineering & Backend Development
-- 🎯 Goal: Become a Professional Full-Stack Software Developer
+- 🚀 Building projects to improve my programming skills
+- 🎯 Interested in Software Development
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
 </p>
 
-### Tools & Technologies
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,androidstudio" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 📱 **CSE DEP Apps** | Educational application for CST students |
-| 🛒 **Red Store Ecommerce** | Responsive e-commerce website |
-| 🐍 **Python Project Collection** | Collection of beginner Python projects |
-| ⚙️ **C++ Mini Projects** | Beginner-friendly C++ projects |
-| ☕ **Java Challenges** | Java practice programs & coding challenges |
+| 📱 CSE DEP Apps | Android application for CST students |
+| 🛒 Red Store Ecommerce | Responsive e-commerce website |
+| 🐍 Python Project Collection | Beginner Python projects |
+| ⚙️ C++ Learning Source Code | C++ practice and mini projects |
+| ☕ Java Challenges | Java programming exercises |
 
 ---
 
-## 📊 GitHub Stats
+# 🌱 Currently Learning
+
+- JavaScript (ES6+)
+- Tailwind CSS
+- React
+- Django
+- REST API
+- PostgreSQL
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -70,6 +83,10 @@ Building practical projects, improving problem-solving skills, and learning mode
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=mahibulhasandev&theme=github-dark&hide_border=true"/>
@@ -78,18 +95,27 @@ Building practical projects, improving problem-solving skills, and learning mode
 
 ---
 
-## 🌱 Currently Learning
+# 📈 Contribution Graph
 
-- Tailwind CSS
-- JavaScript (ES6+)
-- React
-- Django
-- REST API
-- PostgreSQL
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahibulhasandev&theme=github-compact&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahibulhasandev&theme=darkhub&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -97,11 +123,11 @@ Building practical projects, improving problem-solving skills, and learning mode
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/mahibulhasandev">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://www.hackerrank.com/profile/mahibulhasandev">
+<a href="https://www.hackerrank.com/YOUR-HACKERRANK">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -111,6 +137,6 @@ Building practical projects, improving problem-solving skills, and learning mode
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat."
+### 💡 Code • Learn • Build • Improve
 
 </div>
