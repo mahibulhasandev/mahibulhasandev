@@ -39,7 +39,7 @@ CST Diploma Student • Learning Full-Stack Web Development • Linux Enthusiast
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
 </p>
 
 ### Tools
