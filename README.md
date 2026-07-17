@@ -19,10 +19,10 @@ CST Diploma Student • Learning Full-Stack Web Development • Linux Enthusiast
 # 👨‍💻 About Me
 
 - 🎓 Computer Science & Technology (CST) Diploma Student
+- 🐧 Linux Enthusiast (Arch Linux + Hyprland)
 - 🌱 Learning Full-Stack Web Development
 - 💻 Comfortable with C, C++, Python and Java
 - 🌐 Building web projects with HTML, CSS, JavaScript and Tailwind CSS
-- 🐧 Linux Enthusiast (Arch Linux + Hyprland)
 - 🚀 Building projects to improve my programming skills
 - 🎯 Interested in Software Development
 
