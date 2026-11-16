@@ -1,15 +1,16 @@
+
 # Hi 👋, I'm Mahibul Hasan
 
 ### CST Diploma Student | Python & Django Developer | Linux Enthusiast
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+%26+Django+Development;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Web+Development;Linux+Enthusiast;Building+Practical+Projects](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=700\&lines=Python+%26+Django+Development;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Web+Development;Linux+Enthusiast;Building+Practical+Projects)" alt="Typing SVG" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+%26+Django+Development;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Web+Development;Linux+Enthusiast;Building+Practical+Projects" alt="Typing SVG" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=mahibulhasandev&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=mahibulhasandev\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile Views" />
-&#x20; \<img src="[https://img.shields.io/github/followers/mahibulhasandev?label=Followers&style=flat&color=blue](https://img.shields.io/github/followers/mahibulhasandev?label=Followers\&style=flat\&color=blue)" alt="GitHub Followers" />
-\</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahibulhasandev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mahibulhasandev?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+</p>
 
 ---
 
@@ -33,25 +34,27 @@ I'm a Computer Science & Technology (CST) Diploma student at **Moulvibazar Polyt
 
 ### Programming Languages
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=c,cpp,python,java,js](https://skillicons.dev/icons?i=c,cpp,python,java,js)" alt="Programming Languages" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" alt="Programming Languages" />
+</p>
 
 ### Frontend Development
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,tailwind](https://skillicons.dev/icons?i=html,css,tailwind)" alt="Frontend Technologies" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" alt="Frontend Technologies" />
+</p>
 
 ### Backend Development & Database
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=python,django,sqlite,postgres](https://skillicons.dev/icons?i=python,django,sqlite,postgres)" alt="Backend Technologies" /> \</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,sqlite,postgres" alt="Backend Technologies" />
+</p>
 
 ### Tools & Development Environment
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,linux,bash,vscode,androidstudio](https://skillicons.dev/icons?i=git,github,linux,bash,vscode,androidstudio)" alt="Development Tools" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,androidstudio" alt="Development Tools" />
+</p>
 
 ---
 
@@ -61,14 +64,13 @@ I'm a Computer Science & Technology (CST) Diploma student at **Moulvibazar Polyt
 
 A centralized platform designed to bring different academic and administrative operations of polytechnic institutes into one system.
 
-**Repository:** [polytechnic-super-app](https://github.com/mahibulhasandev/polytechnic-super-app)
+🔗 **Repository:** [polytechnic-super-app](https://github.com/mahibulhasandev/polytechnic-super-app)
 
 ### 🏥 Django Multi-Tenant Hospital Management System
 
 A Django-based Hospital Management SaaS platform designed to support multiple hospitals with isolated PostgreSQL databases.
 
 **Key Areas:**
-
 - Multi-Tenant Architecture
 - Platform Control & Tenant Management
 - Database-per-Hospital Strategy
@@ -78,13 +80,13 @@ A Django-based Hospital Management SaaS platform designed to support multiple ho
 
 **Technologies:** Python, Django, PostgreSQL
 
-**Repository:** [django-multi-tenant-hospital-management-system](https://github.com/mahibulhasandev/django-multi-tenant-hospital-management-system)
+🔗 **Repository:** [django-multi-tenant-hospital-management-system](https://github.com/mahibulhasandev/django-multi-tenant-hospital-management-system)
 
 ### 🏥 Django Hospital Management System
 
 A modular hospital management application built with Django, focusing on hospital operations and department-based management.
 
-**Repository:** [django-hospital-management-system](https://github.com/mahibulhasandev/django-hospital-management-system)
+🔗 **Repository:** [django-hospital-management-system](https://github.com/mahibulhasandev/django-hospital-management-system)
 
 ### 📱 Other Projects
 
@@ -98,37 +100,44 @@ A modular hospital management application built with Django, focusing on hospita
 
 ## 💻 Development Environment
 
-| Category            | Technology     |
-| ------------------- | -------------- |
-| Operating System    | Arch Linux     |
-| Window Manager      | Hyprland       |
-| Code Editor         | VS Code        |
-| Version Control     | Git & GitHub   |
-| Shell               | Bash           |
+| Category | Technology |
+|---|---|
+| Operating System | Arch Linux |
+| Window Manager | Hyprland |
+| Code Editor | VS Code |
+| Version Control | Git & GitHub |
+| Shell | Bash |
 | Android Development | Android Studio |
 
 ---
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=mahibulhasandev&show_icons=true&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=mahibulhasandev\&show_icons=true\&theme=github_dark\&hide_border=true)" alt="GitHub Statistics" />   \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mahibulhasandev&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=mahibulhasandev\&layout=compact\&theme=github_dark\&hide_border=true)" alt="Top Languages" /> \</p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahibulhasandev&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahibulhasandev&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 🔥 GitHub Streak
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=mahibulhasandev&theme=github-dark&hide_border=true](https://streak-stats.demolab.com?user=mahibulhasandev\&theme=github-dark\&hide_border=true)" alt="GitHub Streak" />
-\</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahibulhasandev&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-\<p align="center">   \<a href="[https://github.com/mahibulhasandev](https://github.com/mahibulhasandev)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />   \</a> \</p>
+<p align="center">
+  <a href="https://github.com/mahibulhasandev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-\<p align="center">
-&#x20; \<b>Code • Learn • Build • Improve\</b>
-&#x20; \<br/>
-&#x20; \<i>Building my journey in software engineering, one project at a time.\</i>
-\</p>
+<p align="center">
+  <b>Code • Learn • Build • Improve</b>
+  <br/>
+  <i>Building my journey in software engineering, one project at a time.</i>
+</p>
